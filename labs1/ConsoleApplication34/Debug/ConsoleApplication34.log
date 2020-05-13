@@ -1,0 +1,7 @@
+﻿  ConsoleApplication34.cpp
+e:\бгуир\ооп\labs1\labs1\consoleapplication34\header.h(184): warning C4297: Array<int>::~Array: ожидается, что функция не будет выдавать исключения, но она это делает
+  e:\бгуир\ооп\labs1\labs1\consoleapplication34\header.h(184): note: деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+  e:\бгуир\ооп\labs1\labs1\consoleapplication34\header.h(182): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  e:\бгуир\ооп\labs1\labs1\consoleapplication34\consoleapplication34.cpp(12): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<int>::~Array(void)"
+  e:\бгуир\ооп\labs1\labs1\consoleapplication34\consoleapplication34.cpp(12): note: выполняется компиляция ссылки на экземпляр шаблон класс "Array<int>"
+  ConsoleApplication34.vcxproj -> E:\БГУИР\ООП\Labs1\labs1\Debug\ConsoleApplication34.exe
